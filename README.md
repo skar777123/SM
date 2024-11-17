@@ -1,16 +1,16 @@
 
-Duration
+# Duration
 October 2024 – November 2024
 
-Mentor
+# Mentor
 Muzammil Ahmed
 
-Name: Sanskar Gaikwad
-Role: Full Stack Developer
-Company: Codtech IT Solutions
-ID: CT08DS9177
+# Name: Sanskar Gaikwad
+# Role: Full Stack Developer
+# Company: Codtech IT Solutions
+# ID: CT08DS9177
 
-#Konnect: A Fullstack Social Media Web App
+# Konnect: A Fullstack Social Media Web App
 Project Overview
 Konnect is a feature-rich social media platform designed for seamless user interaction, enabling users to connect, share posts, and engage through likes and comments.
 
